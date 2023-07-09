@@ -11,7 +11,7 @@
 
 ##
 
-### Main skills: <br> 
+### Main skills <br> 
 
 <div style="display: inline_block"><br>
   <img alt="-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,4 +22,12 @@
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div>
-  
+
+
+### Tools <br>
+
+<img alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
+<img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="git" height="35" width="40" src="https://raw.githubusercontent.com/lSaySayl/imagenesExternas/main/icons8-github-96.png" />
+ 
+
