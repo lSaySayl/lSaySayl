@@ -24,10 +24,16 @@
 </div>
 
 
-### Tools <br>
+### Tools <br><br>
 
 <img alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
 <img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="git" height="35" width="40" src="https://raw.githubusercontent.com/lSaySayl/imagenesExternas/main/icons8-github-96.png" />
- 
 
+ ### Other Knowledge <br> <br>
+
+<img alt="git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img alt="git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
+<img alt="git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
+          
